@@ -6,7 +6,7 @@ public class Shooting : MonoBehaviour
 {
 
     public GameObject projectilePrefab;
-    public float projectileSpeed = 10f;
+    public float projectileSpeed = 15f;
 
     private void Update()
     {
